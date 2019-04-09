@@ -1,6 +1,16 @@
 Digital Pedagogy Repository Topics 
 (directory folder per w/ readme & supplementary files as .PDF)
 
+Top level folder: Navigating GitHub for Newbies
+	what is GitHub / what is git?
+	what do the git terms mean?
+	how do you access the files you want?
+	what else can you do on Github?
+	--follow repositories
+	--ask questions via issues
+	--propose additions via branching & pull requests
+	where can you go for more help?
+
 -New to digital pedagogy? Start Here! (Digital Pedagogy 101)
 	10 DP best practices
 	student anonymity w/public writing (real names vs. usernames)
@@ -28,3 +38,4 @@ Digital Pedagogy Repository Topics
 -General How-To tutorials
 	Canvas set-up & basics
 	Wordpress/Cornell Blogs setup
+-GitHub in the Classroom
