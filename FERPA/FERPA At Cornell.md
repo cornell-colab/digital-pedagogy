@@ -2,6 +2,7 @@
 
 ## What is FERPA?
 
+<<<<<<< HEAD
 The Family Educational Rights and Privacy Act (20 U.S.C. § 1232g; 34 CFR Part 99) federally protects the privacy of student directory and education records. Parents retain their student children's FERPA rights until the student turns 18 or matriculates to a school beyond the high school level, at which point the student retains full life privacy rights over their educational records. Institutions found not in compliance lose federal funding under the Department of Education. 
 
 
@@ -10,6 +11,10 @@ The Family Educational Rights and Privacy Act (20 U.S.C. § 1232g; 34 CFR Part 9
 
 Originally, FERPA was 
 
+=======
+## Why is FERPA important?
+
+>>>>>>> bc4852420abc7b3fa2169aee4c3b67662e34959b
 ## FERPA & Digital Pedagogy
 
 1. If you have any questions or concerns, consult the Cornell University FERPA policy first.
