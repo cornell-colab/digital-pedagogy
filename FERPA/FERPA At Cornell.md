@@ -1,10 +1,10 @@
-#FERPA At Cornell
+# FERPA At Cornell
 
-##What is FERPA?
+## What is FERPA?
 
-##Why is FERPA important?
+## Why is FERPA important?
 
-##FERPA & Digital Pedagogy
+## FERPA & Digital Pedagogy
 
 1. If you have any questions or concerns, consult the Cornell University FERPA policy first.
 2. Only use university approved platforms to transmit regulated data. To find approved platforms, consult the Cornell IT Regulated Data Chart. (NOTE: At Cornell, Google Suite apps such as Cmail and Google Drive are **not** university approved platforms.)
@@ -17,13 +17,13 @@
 9. Never send or discuss student grades or evaluations via email or non-university approved cloud platforms. 
 10. Parent requests to see student educational records must be handled through the Office of University Counsel. Students retain full life rights over FERPA disclosure from the moment they enroll at Cornell, and parents do not automatically recieve a disclosure exception except in particular scenarios. If there is a question or issue with a parent, contact general counsel at the Office of University Counsel immediately. 
 
-##FERPA First Steps
+## FERPA First Steps
 
-##Supplement Overview
+## Supplement Overview
 
-##Authors
+## Authors
 
-##Credits
+## Credits
 
-##Last Updated/Version
+## Last Updated/Version
 
